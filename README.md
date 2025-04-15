@@ -2,7 +2,7 @@
 
 ### **About Me**  
 
-I am Saurabh Tikadar, a dedicated self-learner with a profound passion for data analysis and the art of storytelling through data. My journey into this field has been fueled by an insatiable curiosity, relentless determination, and a dream of shaping a better tomorrow.  
+I am **Saurabh Tikadar**, a dedicated self-learner with a profound passion for data analysis and the art of storytelling through data. My journey into this field has been fueled by an insatiable curiosity, relentless determination, and a dream of shaping a better tomorrow.  
 
 Coming from a background where financial constraints posed challenges to pursuing formal education in this domain, I turned to freely available resources and transformed them into my personal learning hub. Platforms like YouTube and open-source materials became my mentors, and I devoted countless hours to mastering the nuances of data analysis.  
 
